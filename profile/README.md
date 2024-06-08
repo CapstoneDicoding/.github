@@ -15,6 +15,15 @@ This capstone project demonstrates how Dicoding Jobs could recommend jobseekers 
 
 ## Tech Stacks
 
+Frontend: 
+
+Backend: 
+
+ML: Flask, Python, Jupyter Notebook, Tensorflow, Pandas, sklearn,  PyTesseract, Fpdf, Groq
+
+Deployment: 
+
+Tools : Git, Visual Studio Code, Figma, Google Docs, Google Drive
 
 <!--
 
