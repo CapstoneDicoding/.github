@@ -19,7 +19,7 @@ Frontend:
 
 Backend: 
 
-ML: Flask, Python, Jupyter Notebook, Tensorflow, Pandas, sklearn,  PyTesseract, Fpdf, Groq
+ML: Flask, Python, Jupyter Notebook, Tensorflow, Pandas, sklearn,  PyTesseract, Fpdf, Groq, TFRS, Googletrans
 
 Deployment: 
 
