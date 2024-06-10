@@ -15,9 +15,9 @@ This capstone project demonstrates how Dicoding Jobs could recommend jobseekers 
 
 ## Tech Stacks
 
-Frontend: 
+Frontend: Javascript, Next.Js
 
-Backend: 
+Backend: Typescript, NodeJs, Nest.Js, MySql, Prisma ORM
 
 ML: Flask, Python, Jupyter Notebook, Tensorflow, Pandas, sklearn,  PyTesseract, Fpdf, Groq, TFRS, Googletrans
 
