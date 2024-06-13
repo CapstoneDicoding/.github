@@ -1,9 +1,9 @@
-# <h1 align="center">How Dicoding Jobs provides recommendation to recruiters - a CV Summarization and Named Entity Recognition Approach </h1>
+# <h1 align="center">How Dicoding Jobs provides recommendation to recruiters - an LLM and CV summarization </h1>
 
 
 ## About
 
-This capstone project demonstrates how Dicoding Jobs could recommend jobseekers to recruiters through CV summarization with Generative AI and Named Entity Recognition Approach to extract entities from the CV data.
+This capstone project demonstrates how Dicoding Jobs could recommend jobseekers to recruiters through CV summarization with Generative AI and similarity model to predict similarity points and recommend past CV from the job requirements.
 
 ## Team Members
 - Angela Gabrielle Tungky - M208D4KX2927
